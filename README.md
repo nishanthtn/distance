@@ -1,5 +1,5 @@
 distance - Utilities for comparing sequences
-============================================
+===============================================
 
 This package provides helpers for computing similarities between arbitrary sequences. Included metrics are Levenshtein, Hamming, Jaccard, and Sorensen distance, plus some bonuses. All distance computations are implemented in pure Python, and most of them are also implemented in C.
 
